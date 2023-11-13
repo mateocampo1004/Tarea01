@@ -17,6 +17,6 @@ do {
 alert("Bucle completado.");
 //for 
 for (let conta1 = 1; conta1 <= 5; conta1++) {
-    alert(contador);
+    alert(conta1);
 }
 alert("Bucle completado.");
